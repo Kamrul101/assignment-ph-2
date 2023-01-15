@@ -230,6 +230,7 @@ main {
 /* turning logos into black and white  */
 .sponsor-logo img {
   filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
 }
 
 /* extra section for bonus */
